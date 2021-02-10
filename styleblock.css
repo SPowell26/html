@@ -1,0 +1,37 @@
+H1{
+
+Background-color:green;
+Color: yellow;
+
+}
+
+P {
+
+Background-color: green;
+Color: yellow;
+
+}
+
+P.test {
+
+Background-color: green;
+Color: yellow;
+Border-color: orange;
+Border-width: 2px;
+Border-style: solid;
+
+}
+
+H2{
+
+Background-color: green;
+Color: yellow;
+
+}
+
+Div{
+
+Background-color: green;
+Color: yellow;
+
+}

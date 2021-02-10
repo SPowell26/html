@@ -1,0 +1,129 @@
+Body {
+
+Color: green;
+Font-family: Verdana, arial, geneva, arial black;
+Font-weight: normal;
+background-color: #ffcf79;
+font-size: 24px;
+
+}
+
+H1 {
+
+Text-decoration: underline;
+font-size: 150%;
+Text-align:center;
+
+}
+
+h2 {
+
+text-decoration: underline;
+font-size: 1.2em;
+Text-align: center;
+
+}
+
+H3 {
+
+Color:green;
+Text-decoration: underline;
+
+}
+
+#para1homepage {
+
+Color: blue;
+
+}
+
+
+p.paragraph {
+
+color: pink;
+font-size: 20px;
+line-height: 1.5em;
+background-color: #e5e4d7;
+padding: 20px 20px 20px 20px;
+border: black 2px solid;
+Background-image:url(download.jpg);
+Border-radius: 10px;
+Border-bottom-style: dotted;
+Border-right-color: red;
+
+}
+
+.highlight {
+
+Background-color:#ffff00;
+
+}
+
+.divcontent {
+
+Color:black;
+
+}
+
+#divmain {
+
+Color: black;
+
+}
+
+#divbass {
+
+Color:black;
+
+}
+
+#para4homepage {
+
+color: black;
+font-size: 15px;
+line-height: 1.5em;
+background-color: #e5e4d7;
+padding: 20px;
+border-color: #296a64;
+border-width: thick;
+border-style: ridge;
+margin: 20px;
+margin-top: 50px;
+margin-left: 400px;
+
+
+}
+
+img.imagec {
+
+display: block;
+Text-align:center;
+margin-left: auto;
+margin-right: auto;
+max-width: 50%;
+max-height: 50%;
+background-color: green;
+padding: 5px;
+border-color: #296A64;
+border-width: thick;
+border-style: dashed;
+
+}
+
+a:link {
+
+Color:blue;
+
+}
+
+a:visited {
+
+Color:#8c8c90;
+
+}
+
+a:hover {
+
+Color:f15a51;
+
+}
